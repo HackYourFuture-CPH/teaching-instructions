@@ -7,6 +7,12 @@ A `mentor` is anyone who volunteers to help in our initiative and is part of our
 
 A `teacher` is any mentor who is taking charge of a module and teaching the actual contents of the curriculum. Being a teacher comes with a certain amount of responsibility and time commitment. We would never ask something of you that you don’t want to do, but be aware that we trust you to be present and prepared for the sessions pertaining to the module you teach. Every module is taught by two teachers, so you are not solely responsible, but we expect that you communicate well with your teaching partner how to split up the tasks related to teaching.
 
+### So how is the curriculum structured again?
+We teach the curriculum split into 7 `modules`. A module usually consists of 3-5 weeks, depending on the subject.<br>
+Displayed red below are the 4 "fundamental" modules, the first 12 weeks of the program. These are the hardest part for most students and require a lot of special attention.
+![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/teaching-instructions/blob/master/curriculum_graphic_weeks_new_AP.jpg)
+At the end of the 7 modules we start a `final project` which is the most important product our students will take away from our classes. The goal is to let students build a real-world app using the skills they acquired during the course. An example can be seen [here](https://github.com/HackYourFuture-CPH/class02-final-project).
+
 ### Step-by-step guide for teaching
  In order to assure good continuity and retention of knowledge within our program, as well as the highest quality teaching for our students we have certain processes that we need to adhere to in every module.
 
@@ -27,7 +33,7 @@ When you start teaching a class, consider kicking it off by briefly explaining w
 
 8. **Feedback.** <br>
 
-9. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also 
+9. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also do it whenever it suits into your schedule. We just feel it's important to follow up on all homework so the students don't feel like their work is in vain. (Especially important during the first 4 modules)
 
 10. **Don't forget about the fun** <br>
 If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. <p>
