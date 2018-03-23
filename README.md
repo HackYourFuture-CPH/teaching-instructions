@@ -1,6 +1,7 @@
 # Teaching Dogma
 
->First and foremost we need to remember why we teach and who is our audience. We want to not only teach concepts as a total truth, but much mores prepare our students for navigating through Google and how they can read up on the topic later. The resources we use are almost without exception geared towards a Western audience, but we need to keep in mind that our students seldom have the same access to this as we do. So our goal is to: guide people towards the right resources and help them understand - but no excessive spoon-feeding of information.
+>First and foremost we need to remember why we teach and who is our audience. We want to not only teach concepts as a total truth, but much mores prepare our students for navigating through Google and how they can read up on the topic later. The resources we use are almost without exception geared towards a Western audience, but we need to keep in mind that our students seldom have the same access to this as we do. So our goal is to: guide people towards the right resources and help them understand - but no excessive spoon-feeding of information. <p>
+ We build on experiential learning and peer assisted learning, two of the few uncontested didactic paradigms. That means we try to do as much hands-on work in class as possible, as well as fostering collaboration between students.
 
 ### What’s the difference between a mentor and a teacher? 
 A `mentor` is anyone who volunteers to help in our initiative and is part of our Slack community. This can entail answering questions on Slack, helping with events, helping with homework feedback or other flexible tasks.
@@ -28,10 +29,14 @@ When you start teaching a class, consider kicking it off by briefly explaining w
 5. **Previous week's homework.** <br> We received feedback from students several times that they would like to see a “perfect solution” for the homework - the way you would write it, or the way you intended it to look.
 
 6. **Homework.** <br>
+In depth explanation coming soon.
 
 7. **Feedback partners.** <br>
+At the end of each session we determine feedback partners - 2 students who will give one another feedback on their homework. Students can learn a lot from seeing the mistakes of their peers and can often explain things they only recently learned in simpler terms than the teachers who have multiple years of experience.<p>
+You can either select the feedback teams yourself (try to make good matches) or determine a "class representative" who takes responsibility for picking the feedback partners for everyone. 
 
 8. **Feedback.** <br>
+We give feedback on the homework uploaded to GitHub via issues. The extent of the feedback is up to you, but of course the students benefit from explanations. You can see an example [here](https://github.com/chsaqib/hyf-html-css/issues/1).
 
 9. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also do it whenever it suits into your schedule. We just feel it's important to follow up on all homework so the students don't feel like their work is in vain. (Especially important during the first 4 modules)
 
