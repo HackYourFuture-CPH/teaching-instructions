@@ -36,7 +36,7 @@ At the end of each session we determine feedback partners - 2 students who will 
 You can either select the feedback teams yourself (try to make good matches) or determine a "class representative" who takes responsibility for picking the feedback partners for everyone. 
 
 8. **Feedback.** <br>
-We give feedback on the homework uploaded to GitHub via issues. The extent of the feedback is up to you, but of course the students benefit from explanations. You can see an example [here](https://github.com/chsaqib/hyf-html-css/issues/1).
+We give feedback on the homework uploaded to GitHub via issues. The extent of the feedback is up to you, but of course the students benefit from explanations. The preferred way of providing feedback is via annotating single [line](https://github.com/ShazaMaher/week-01/issues/1) or range of [lines](https://github.com/ShazaMaher/week-01/issues/2). Alternatively a [general issue](https://github.com/chsaqib/hyf-html-css/issues/1) with a review can be created.
 
 9. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also do it whenever it suits into your schedule. We just feel it's important to follow up on all homework so the students don't feel like their work is in vain. (Especially important during the first 4 modules)
 
