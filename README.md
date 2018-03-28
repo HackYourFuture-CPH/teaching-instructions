@@ -1,4 +1,4 @@
-# I am supposed to teach a module... how do I do that?
+# Teacher's Guide
 
 >First and foremost we need to remember why we teach and who is our audience. We want to not only teach concepts as a total truth, but much mores prepare our students for navigating through Google and how they can read up on the topic later. The resources we use are almost without exception geared towards a Western audience, but we need to keep in mind that our students seldom have the same access to this as we do. So our goal is to: guide people towards the right resources and help them understand - but no excessive spoon-feeding of information. <p>
  We build on experiential learning and peer assisted learning, two of the few uncontested didactic paradigms. That means we try to do as much hands-on work in class as possible, as well as fostering collaboration between students.
