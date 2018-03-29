@@ -8,6 +8,8 @@ A `mentor` is anyone who volunteers to help in our initiative and is part of our
 
 A `teacher` is any mentor who is taking charge of a module and teaching the actual contents of the curriculum. Being a teacher comes with a certain amount of responsibility and time commitment. We would never ask something of you that you don’t want to do, but be aware that we trust you to be present and prepared for the sessions pertaining to the module you teach. Every module is taught by two teachers, so you are not solely responsible, but we expect that you communicate well with your teaching partner how to split up the tasks related to teaching.
 
+---
+
 ### Step-by-step guide for teaching
  In order to assure good continuity and retention of knowledge within our program, as well as the highest quality teaching for our students we have certain processes that we need to adhere to in every module.
 
@@ -23,11 +25,12 @@ When you start teaching a class, consider kicking it off by briefly explaining w
 5. **Previous week's homework.** <br> We received feedback from students several times that they would like to see a “perfect solution” for the homework - the way you would write it, or the way you intended it to look.
 
 6. **Homework.** <br>
-In depth explanation coming soon.
+Homework is a substantial and crucial part of our program. We need to dedicate a lot of effort to this despite the often underwhelming participation by students.<br>
+The repos are split up by weeks (week 1, week 2, week 3 etc) and all individually contain an overview, reading homework and homework assignment. Make sure to be on top of these repos and make PR's where necessary so that we don't have redundancies, dead links, confusing or misleading information in there.
 
 7. **Feedback partners.** <br>
-At the end of each session we determine feedback partners - 2 students who will give one another feedback on their homework. Students can learn a lot from seeing the mistakes of their peers and can often explain things they only recently learned in simpler terms than the teachers who have multiple years of experience.<p>
-You can either select the feedback teams yourself (try to make good matches) or determine a "class representative" who takes responsibility for picking the feedback partners for everyone. 
+At the end of each session we determine feedback partners - 2 students who will give one another feedback on their homework. *Make sure they understand why and how to do this!* Students can learn a lot from seeing the mistakes of their peers and can often explain things they only recently learned in simpler terms than the teachers who have multiple years of experience.<p>
+You can either select the feedback teams yourself (try to make good matches) or determine a *class representative* who takes responsibility for picking the feedback partners for everyone. 
 
 8. **Feedback.** <br>
 We give feedback on the homework uploaded to GitHub via issues. The extent of the feedback is up to you, but of course the students benefit from explanations. The preferred way of providing feedback is via annotating single [line](https://github.com/ShazaMaher/week-01/issues/1) or range of [lines](https://github.com/ShazaMaher/week-01/issues/2). Alternatively a [general issue](https://github.com/chsaqib/hyf-html-css/issues/1) with a review can be created.
