@@ -11,7 +11,7 @@ A `teacher` is any mentor who is taking charge of a module and teaching the actu
 ---
 
 ### Teaching Timetable
-A Google sheet where you can mark unavailable days and keep track of who has been teaching what can be found [here](https://docs.google.com/spreadsheets/d/1uYSzLetZxhIUIlpk0Si3KgQ9I1-yniif37-Te_7X4j8/edit?usp=sharing).
+A Google sheet where you can mark your unavailable weeks and keep track of who has been teaching what modules so far can be found [here](https://docs.google.com/spreadsheets/d/1uYSzLetZxhIUIlpk0Si3KgQ9I1-yniif37-Te_7X4j8/edit?usp=sharing).
 
 ### Step-by-step guide for teaching
 In order to assure good continuity and retention of knowledge within our program, as well as the highest quality teaching for our students we have certain processes that we need to adhere to in every module.
