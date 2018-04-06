@@ -27,11 +27,9 @@ When you start teaching a class, consider kicking it off by briefly explaining w
 
 5. **Teaching techniques.** <br> 
 Not everyone has teaching experience or a background in didactics, but don't fret. We try to always mix experienced teachers and new ones. It is of course an advantage to know how to convey knowledge well, but we try to model our classes after some uncontested principles for the best results for learning: experiential learning (hands-on work) and peer-assisted learning (students helping one another).  
-
 In practice this means that we try to use as few powerpoint slides as possible (ideally none) and focus on Live coding examples, group exercises and anything else that keeps people's hands on their keyboards and makes them learn. Check out this repo for some more tips and tricks: [teaching_tips_and_tricks](https://github.com/HackYourFuture/teaching_tips_tricks).  
 Our [Copenhagen curriculum](https://github.com/HackYourFuture-CPH/curriculum) will provide a list of learning goals for every module on its readme. When you go into individual repos for the different modules, e.g. [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS), you will find further, week specific learning goals, exercises and homework there as well.  
-
-"Not much left to do for me" you say? Not unless you want to! We try to build on what we have done so far and not reinvent the wheel each time, but you are always more than welcome to create your own exercises and make pull requests with your suggested changes. As a teacher this curriculum becomes as much your effort as ours!
+"_Not much left for me to do_" you say? Not unless you want to! We try to build on what we have done so far and not reinvent the wheel each time, but you are always more than welcome to create your own exercises, homework and make pull requests with your suggested changes. Most important is that we cover the learning goals. As a teacher this curriculum becomes as much your effort as ours, don't be afraid to make your mark!
 
 6. **Homework.** <br>
 Homework is a substantial and crucial part of our program. We need to dedicate a lot of effort to this despite the often underwhelming participation by students.<br>
