@@ -34,20 +34,20 @@ Our [Copenhagen curriculum](https://github.com/HackYourFuture-CPH/curriculum) wi
 6. **Homework.** <br>
 Homework is a substantial and crucial part of our program. We need to dedicate a lot of effort to this despite the often underwhelming participation by students.<br>
 The repos are split up by weeks (week 1, week 2, week 3 etc) and all individually contain an overview, reading homework and homework assignment. Make sure to be on top of these repos and make PR's where necessary so that we don't have redundancies, dead links, confusing or misleading information in there.
-
-6.1 **Previous week's homework.** <br> 
+  
+7. **Previous week's homework.** <br> 
 We received feedback from students several times that they would like to see a “perfect solution” for the homework - the way you would write it, or the way you intended it to look. If this makes sense, then plan for a few minutes at the start of a  session so you can show the 'best solution'.
 
-7. **Feedback partners.** <br>
+8. **Feedback partners.** <br>
 At the end of each session we determine feedback partners - 2 students who will give one another feedback on their homework. *Make sure they understand why and how to do this!* Students can learn a lot from seeing the mistakes of their peers and can often explain things they only recently learned in simpler terms than the teachers who have multiple years of experience.<p>
 You can either select the feedback teams yourself (try to make good matches) or determine a *class representative* who takes responsibility for picking the feedback partners for everyone. 
 
-8. **Feedback.** <br>
+9. **Feedback.** <br>
 We give feedback on the homework uploaded to GitHub via issues. The extent of the feedback is up to you, but of course the students benefit from explanations. The preferred way of providing feedback is via annotating single [line](https://github.com/ShazaMaher/week-01/issues/1) or range of [lines](https://github.com/ShazaMaher/week-01/issues/2). Alternatively a [general issue](https://github.com/chsaqib/hyf-html-css/issues/1) with a review can be created.
 
-9. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also do it whenever it suits into your schedule. We just feel it's important to follow up on all homework so the students don't feel like their work is in vain. (Especially important during the first 4 modules)
+10. **After the module ends.** <br> Remember you still have an outstanding homework. We tend to revise this at the start of the next session, but if you aren’t available you can also do it whenever it suits into your schedule. We just feel it's important to follow up on all homework so the students don't feel like their work is in vain. (Especially important during the first 4 modules)
 
-10. **Don't forget about the fun** <br>
+11. **Don't forget about the fun** <br>
 If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. <p>
 A good resource for fun exercises is the [teaching_tips_and_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and PR's are more than welcome!
 
