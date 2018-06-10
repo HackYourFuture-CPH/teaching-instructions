@@ -31,6 +31,9 @@ In practice this means that we try to use as few powerpoint slides as possible (
 Our [Copenhagen curriculum](https://github.com/HackYourFuture-CPH/curriculum) will provide a list of learning goals for every module on its readme. When you go into individual repos for the different modules, e.g. [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS), you will find further, week specific learning goals, exercises and homework there as well.  
 "_Not much left for me to do_" you say? Not unless you want to! We try to build on what we have done so far and not reinvent the wheel each time, but you are always more than welcome to create your own exercises, homework and make pull requests with your suggested changes. Most important is that we cover the learning goals. As a teacher this curriculum becomes as much your effort as ours, don't be afraid to make your mark!
 
+5.1. **Breaks** <br>
+We take a long break around 14:00, to have lunch. (About 20 minutes). Otherwise, make sure to rememember to take short breaks about every 45 minutes as it is a lot to take in for students and concentration will understandably drop if we don't take breaks.
+
 6. **Homework.** <br>
 Homework is a substantial and crucial part of our program. We need to dedicate a lot of effort to this despite the often underwhelming participation by students.<br>
 The repos are split up by weeks (week 1, week 2, week 3 etc) and all individually contain an overview, reading homework and homework assignment. Make sure to be on top of these repos and make PR's where necessary so that we don't have redundancies, dead links, confusing or misleading information in there.
