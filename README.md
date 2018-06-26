@@ -54,5 +54,5 @@ We give feedback on the homework uploaded to GitHub via issues. The extent of th
 If you have an idea about how to combine the teaching with some more fun exercises - do it. Our curriculum is challenging and sometimes dry (it has to be), but that doesn't mean we can't take some digressions to have some fun and get the energy levels in the class up. Mitigating 'code scare' or demystifying the world of programming can be super important, especially in the start. <p>
 A good resource for fun exercises is the [teaching_tips_and_tricks](https://github.com/HackYourFuture/teaching_tips_tricks) repo. It's a collaborative effort between all HYF chapters and PR's are more than welcome!
 
-Some ice breaker exercises [here](https://icebreakerideas.com/quick-icebreakers/#Ground_Rules_for_Quick_Icebreaker_Games).
+13. Some ice breaker exercises [here](https://icebreakerideas.com/quick-icebreakers/#Ground_Rules_for_Quick_Icebreaker_Games).
 
