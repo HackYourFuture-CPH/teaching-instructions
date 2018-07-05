@@ -3,11 +3,6 @@
 >First and foremost we need to remember why we teach and who is our audience. We want to not only teach concepts as a total truth, but much mores prepare our students for navigating through Google and how they can read up on the topic later. The resources we use are almost without exception geared towards a Western audience, but we need to keep in mind that our students seldom have the same access to this as we do. So our goal is to: guide people towards the right resources and help them understand - but no excessive spoon-feeding of information. <p>
  We build on experiential learning and peer assisted learning, two of the few uncontested didactic paradigms. That means we try to do as much hands-on work in class as possible, as well as fostering collaboration between students.
 
-### What’s the difference between a mentor and a teacher? 
-A `mentor` is anyone who volunteers to help in our initiative and is part of our Slack community. This can entail answering questions on Slack, helping with events, helping with homework feedback or other flexible tasks.
-
-A `teacher` is any mentor who is taking charge of a module and teaching the actual contents of the curriculum. Being a teacher comes with a certain amount of responsibility and time commitment. We would never ask something of you that you don’t want to do, but be aware that we trust you to be present and prepared for the sessions pertaining to the module you teach. Every module is taught by two teachers, so you are not solely responsible, but we expect that you communicate well with your teaching partner how to split up the tasks related to teaching.
-
 ---
 
 ### Teaching Timetable
