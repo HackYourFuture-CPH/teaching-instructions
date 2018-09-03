@@ -11,8 +11,9 @@ A Google sheet where you can mark your unavailable weeks and keep track of who h
 ### Step-by-step guide for teaching
 In order to assure good continuity and retention of knowledge within our program, as well as the highest quality teaching for our students we have certain processes that we need to adhere to in every module.
 
-1. **Preparation.** <br>As a starting point for every time a new teacher takes any module we can always also check out the respective [Amsterdam repo](https://github.com/HackYourFuture/curriculum) corresponding to the module we are teaching - just for some inspiration in case they do it differently. You can also familiarise yourself with the pre-readings for the class and what students have learned so far (there exists a dedicated mentor channel for each class, usually called "classXX-mentors")
-
+1. **Preparation.** <br>As a starting point for every time a new teacher takes any module, make sure that what is taught actually is within the given learning goals. Also make sure that the students are equipped to solve the homework without too much frustration.
+You can also familiarise yourself with the pre-readings for the class and what students have learned so far (there exists a dedicated mentor channel for each class, usually called "classXX-mentors") 
+For inspiration we can always check out the respective [Amsterdam repo](https://github.com/HackYourFuture/curriculum) corresponding to the module we are teaching.
 2. **Recording of sessions.** <br>We do screen recordings of all sessions for students who cannot attend or want to revisit parts of the session later. We use a software called OBS [here](https://obsproject.com/) for this. You can send the video files to Christopher after class and he will take care of uploading and posting it on Slack. Optionally you can also use Youtube live (guide). Ask Christopher for the HYF-cph Youtube account info. You can see an example of a recorded session [here](https://www.youtube.com/edit?o=U&video_id=72CMjs61vIw).
 
 3. **Schedule for the day.** <br> Experience shows that it’s a great help to show students an agenda for the day. Breaks should be honoured and kept to their intended length. We take short breaks every 45 minutes, as well as a long lunch break at 14:00 (ca.). Trying to adhere this structure helps keeping focus and keeps energy up.
@@ -31,7 +32,7 @@ Homework is a substantial and crucial part of our program. We need to dedicate a
 The repos are split up by weeks (week 1, week 2, week 3 etc) and all individually contain an overview, reading homework and homework assignment. Make sure to be on top of these repos and make PR's where necessary so that we don't have redundancies, dead links, confusing or misleading information in there.
   
 7. **Previous week's homework.** <br> 
-We received feedback from students several times that they would like to see a “perfect solution” for the homework - the way you would write it, or the way you intended it to look. If this makes sense, then plan for a few minutes at the start of a  session so you can show the 'best solution'.
+We received feedback from students several times that they would like to see a “perfect solution” for the homework - the way you would write it, or the way you intended it to look. If this makes sense, then in the end of the class upload a solution for the homework on Slack. Then the students can look at it in their own time. Another helpful thing can be to adress common issues the students had with the homework.
 
 8. **Feedback partners.** <br>
 At the end of each session we determine feedback partners - 2 students who will give one another feedback on their homework. *Make sure they understand why and how to do this!* Students can learn a lot from seeing the mistakes of their peers and can often explain things they only recently learned in simpler terms than the teachers who have multiple years of experience.<p>
