@@ -11,8 +11,9 @@ A Google sheet where you can mark your unavailable weeks and keep track of who h
 ### Step-by-step guide for teaching
 In order to assure good continuity and retention of knowledge within our program, as well as the highest quality teaching for our students we have certain processes that we need to adhere to in every module.
 
-1. **Preparation.** <br>As a starting point for every time a new teacher takes any module we can always also check out the respective [Amsterdam repo](https://github.com/HackYourFuture/curriculum) corresponding to the module we are teaching - just for some inspiration in case they do it differently. You can also familiarise yourself with the pre-readings for the class and what students have learned so far (there exists a dedicated mentor channel for each class, usually called "classXX-mentors")
-
+1. **Preparation.** <br>As a starting point for every time a new teacher takes any module, make sure that what is taught actually is within the given learning goals. Also make sure that the students are equipped to solve the homework without too much frustration.
+You can also familiarise yourself with the pre-readings for the class and what students have learned so far (there exists a dedicated mentor channel for each class, usually called "classXX-mentors")
+For inspiration we can always check out the respective [Amsterdam repo](https://github.com/HackYourFuture/curriculum) corresponding to the module we are teaching.
 2. **Recording of sessions.** <br>We do screen recordings of all sessions for students who cannot attend or want to revisit parts of the session later. We use a software called OBS [here](https://obsproject.com/) for this. You can send the video files to Christopher after class and he will take care of uploading and posting it on Slack. Optionally you can also use Youtube live (guide). Ask Christopher for the HYF-cph Youtube account info. You can see an example of a recorded session [here](https://www.youtube.com/edit?o=U&video_id=72CMjs61vIw).
 
 3. **Schedule for the day.** <br> Experience shows that it’s a great help to show students an agenda for the day. Breaks should be honoured and kept to their intended length. We take short breaks every 45 minutes, as well as a long lunch break at 14:00 (ca.). Trying to adhere this structure helps keeping focus and keeps energy up.
