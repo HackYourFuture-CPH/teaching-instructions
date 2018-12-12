@@ -1,6 +1,7 @@
 ## Here you can find some resources for getting started as a mentor!
 
-Before we start: Have you checked out the [Teacher Timeline sheet](https://docs.google.com/spreadsheets/d/1uYSzLetZxhIUIlpk0Si3KgQ9I1-yniif37-Te_7X4j8/edit?usp=sharing) in the channel description of #mentorroom? <p>
+**Before we start:** <br>
+Have you checked out the [Teacher Timeline sheet](https://docs.google.com/spreadsheets/d/1uYSzLetZxhIUIlpk0Si3KgQ9I1-yniif37-Te_7X4j8/edit?usp=sharing) in the channel description of #mentorroom? <p>
 Aaaand have you filled out the [Mentor Skill sheet](https://docs.google.com/spreadsheets/d/1bvagz2DZkV44Hb5a0eATC7tip34o_F496FKVzzmjQGU/edit?usp=sharing)? (This helps us keep an overview of who is comfortable teaching what - and what your extra skills are.)
 
 
