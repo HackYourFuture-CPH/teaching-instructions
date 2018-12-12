@@ -9,4 +9,5 @@ Aaaand have you filled out the [Mentor Skill sheet](https://docs.google.com/spre
 | -------------------- | -------------| 
 |[Teacher's guide](/step-by-step-guide.md)| A detailed step-by-step guide of how to get started as a teacher and how to prepare for - and execute teaching a module at HackYourFuture. (According to our best knowledge)|
 |[1:1 Mentoring](/1-1-mentoring.md)| An introduction to mentoring individual students 1:1 - what's expected, what's recommended? Answers are in here.|
+| [Cultural-guide](/cultural-guide.md)| No reason to be overly afraid of putting your foot in your mouth - Chris has already taken care of all the embarrassing mishaps. If you're still curious about some extra input regarding working with a marginalised group from a different cultural background - here's some input.
 | [Tips & Tricks](https://github.com/HackYourFuture/teaching_tips_tricks)| A collaborative list of tips, tricks and exercises from mentors in all HYF chapters around the globe.
