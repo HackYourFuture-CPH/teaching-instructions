@@ -1,12 +1,12 @@
 # 1:1 Mentoring
 
 **Getting started** <br>
-This is a short guide for starting your 1:1 mentorship for a HYF student who might need extra help in order to get ready for the job market.
+This is a short guide for starting your 1:1 mentorship for a HYF student who might need extra help in order to get the most out of our community and to get ready for the job market.
 
 ![Ace-Ventura_mentor](https://media.giphy.com/media/6ySFKd72MyV4Q/giphy.gif)
 
 **Goal** <br>
-The goal of this initiative is to offer each student a particular mentor who they know they can always ask about any code - or job market-related questions they might have. It shouldn't be an overwhelming task though - that's why there's only one student per mentor. If you feel like it's becoming too much responsibility - let us know and we'll match a different mentor with the student. 
+The goal of this added mentorship is to offer each student a particular point-of-contact whom they know they can always ask reach out to - with coding or job market-related questions they might have. It shouldn't be an overwhelming task though - that's why there's only one student per mentor. If you feel like it's becoming too much responsibility - let us know and we'll match a different mentor with the student. 
 
 **Checklist** <br>
 
