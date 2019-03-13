@@ -10,13 +10,13 @@ The goal of this added mentorship is to offer each student a particular point-of
 
 **Checklist** <br>
 
-- Check in with the student weekly - see how they're doing! (e.g. on Wednesday: "How is homework going?")
+- Check in with the student weekly - see how they're doing and let them know there is someone there to support them! (e.g. on Wednesday: "How is homework going?")
 - Check their homework performance - watch out that they don't fall behind on their homeworks! [homework-app](https://hyf-homework-assesment.herokuapp.com/)
 - Meeting once for a coffee, or at your work (even better!)
 - Making sure the student has a CV and Linkedin ready after ca. the JS 3 module
 - Drag the student to a meetup you think is relevant or fun! Just once is already great!
 - Send the student relevant internship/job postings
-- Sit with the student and watch them seek jobs online or make an application
+- Sit with the student and watch them seek jobs online or make an application - small things can often be a barrier to students, so it's good to check if they approach the job hunt correctly!
 
 **Anything I should keep in mind?** <br>
 Just remember to:<br>
